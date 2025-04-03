@@ -26,6 +26,7 @@ window.onload = function() {
 
 
   
+    
    document.getElementById("excuse").innerHTML = excuseWho + excuseAction + excuseWhat + excuseWhen;
    
 };
